@@ -32,3 +32,24 @@ leetcode-dsa-daily/
 ├── Medium/
 ├── Hard/
 ├── README.md
+
+
+---
+
+## 🧠 Tech Stack
+
+- Language: **Java**
+- Platform: [LeetCode](https://leetcode.com/)
+- Version Control: **GitHub**
+
+---
+
+## 🙌 Let’s Connect!
+
+- 👨‍💻 Portfolio: [https://sutharatul.github.io/Static-portfolio-website/](https://sutharatul.github.io/Static-portfolio-website/)
+- 💼 LinkedIn: [https://linkedin.com/in/atulkumarsuthar](https://linkedin.com/in/atulkumarsuthar)
+- 🧠 GitHub: [https://github.com/SutharAtul](https://github.com/SutharAtul)
+
+---
+
+> 🧩 _“Discipline beats motivation — show up daily and you’ll be unstoppable.”_
